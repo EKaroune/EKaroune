@@ -1,10 +1,12 @@
 ### Hi there 👋 I'm Emma. 
 ### I work as a Senior Community Manager of the Turing/RSS Lab and DECOVID project at the [Alan Turing Institute](https://www.turing.ac.uk/). 
 ### I'm also the Principal Investigator of the [FAIR Phytolith Project](https://open-phytoliths.github.io/FAIR-phytoliths/). 
+### I'm a core contributor to _The Turing Way_.
 
 ### 🔭 I’m currently working on: 
 * FAIR data implementation through community building and training for FAIR data management. 
 * Papers about reproducible research in archaeology and academic authorship. 
+* Turing way chapters about sensitive data.
 
 ### 🌱 I’m currently learning to get better at R.
 
