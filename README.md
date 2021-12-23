@@ -13,7 +13,7 @@
 ### 💬 Ask me about my blog - [The Open Archaeobotanist](https://ekaroune.github.io/The-Open-Archaeobotanist/)
 
 ### 📫 How to reach me: 
-* Email: ekaroune@turing.ac.uk or 
+* Email: ekaroune@turing.ac.uk
 * Twitter: ekaroune 
 * ORCID: 0000-0002-6576-6053
 
