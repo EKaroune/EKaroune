@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Emma. 
-### I work as a Senior Community Manager of the Turing/RSS Lab and DECOVID project at the [Alan Turing Institute](https://www.turing.ac.uk/). 
+### I work as a Senior Community Manager for the Turing/RSS Lab and DECOVID project at the [Alan Turing Institute](https://www.turing.ac.uk/). 
 ### I'm also the Principal Investigator of the [FAIR Phytolith Project](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 ### I'm a core contributor to [_The Turing Way_](https://the-turing-way.netlify.app/welcome).
 
