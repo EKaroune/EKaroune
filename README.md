@@ -3,6 +3,7 @@
 ### I'm the co-lead of [People in Data](https://www.turing.ac.uk/research/research-projects/people-data) and co-organiser of the [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai). 
 ### I'm also the Principal Investigator of the [FAIR Phytolith Project](https://open-phytoliths.github.io/FAIR-phytoliths/). 
 ### I'm a core team member of [_The Turing Way_](https://the-turing-way.netlify.app/welcome).
+### I'm on the [Hidden REF](https://hidden-ref.org/) Committee. 
 
 ### 🔭 I’m currently working on: 
 * Professionalisation and capacity building projects about diverse data science roles. 
