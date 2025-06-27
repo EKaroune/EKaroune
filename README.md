@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Emma. 
-### I work as a Senior Researcher for Research Community Building in the Tools, Practices and Systems Programme at the [Alan Turing Institute](https://www.turing.ac.uk/). 
-### I'm the co-lead of [People in Data](https://www.turing.ac.uk/research/research-projects/people-data) and co-organiser of the [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai). 
+### I work as a Principal Researcher for Research Community Building in the Tools, Practices and Systems Programme at the [Alan Turing Institute](https://www.turing.ac.uk/). 
+### I'm the leading the [Advancing Biomedical Data Science Careers Project](https://www.turing.ac.uk/research/research-projects/advancing-biomedical-data-science-careers) and co-organiser of the [Clinical AI Interest Group](https://www.turing.ac.uk/research/interest-groups/clinical-ai). 
 ### I'm also the Principal Investigator of the [FAIR Phytolith Project](https://open-phytoliths.github.io/FAIR-phytoliths/). 
-### I'm a core team member of [_The Turing Way_](https://the-turing-way.netlify.app/welcome).
+### I'm a steering committee member of [_The Turing Way_](https://the-turing-way.netlify.app/welcome) and on the Book Dash Working Group.
 ### I'm on the [Hidden REF](https://hidden-ref.org/) Committee. 
 
 ### 🔭 I’m currently working on: 
